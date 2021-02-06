@@ -5,3 +5,8 @@
 git branch -m main master
 git fetch origin
 git branch -u origin/master master
+
+git status
+git add filename
+git commit -m "message"
+git push
