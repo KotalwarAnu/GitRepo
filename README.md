@@ -1,4 +1,4 @@
 # GitRepo
 
-#Repo for Develop Branch
+#Repo for Feature Branch
 
